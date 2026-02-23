@@ -21,3 +21,5 @@ public class Ex003CalculadoraPontuacao {
         return pontuacaoFinal;
     }
 }
+
+/* Exercício feito com a finalidade de familiarização de métodos e da função return. */

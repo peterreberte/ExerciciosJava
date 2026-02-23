@@ -21,3 +21,24 @@ public class Ex010ComparadorDecimal {
 
     }
 }
+
+/* Enunciado:
+
+Escreva um método chamado areEqualByThreeDecimalPlaces com dois parâmetros do tipo double.
+
+O método deve retornar boolean e precisa retornar true se os dois números do tipo double forem iguais até três casas decimais. Caso contrário, retorne false.
+
+EXEMPLOS DE ENTRADA/SAÍDA:
+
+areEqualByThreeDecimalPlaces(-3.1756, -3.175); → deve retornar true, pois os números são iguais até 3 casas decimais.
+
+areEqualByThreeDecimalPlaces(3.175, 3.176); → deve retornar false, pois os números não são iguais até 3 casas decimais.
+
+areEqualByThreeDecimalPlaces(3.0, 3.0); → deve retornar true, pois os números são iguais até 3 casas decimais.
+
+areEqualByThreeDecimalPlaces(-3.123, 3.123); → deve retornar false, pois os números não são iguais até 3 casas decimais.
+
+DICA: Use papel e caneta.
+DICA: Use casting (conversão de tipo).
+
+Objetivo de aprendizagem: Aprender a comparar números de ponto flutuante até uma determinada casa decimal, implementando um método que verifica igualdade considerando três casas decimais. */

@@ -3,7 +3,7 @@ public class Ex001CalculadoraResto {
     public static void main(String[] args) {
 
         double numero1 = 10.00d;
-        double numero2 = 80.00d;
+        double numero2 = 80.20d;
         double numero3 = ((numero1 + numero2) * 100.00d);
         System.out.println("O resultado é: " + numero3);
 
@@ -20,3 +20,5 @@ public class Ex001CalculadoraResto {
         }
     }
 }
+
+/* Exercício feito com a finalidade de familiarização com os operadores de Java. */

@@ -26,3 +26,4 @@ public class Ex002CalculadoraMedia {
     }
 }
 
+/* Exercício criado de forma autoral para teste de habilidade de lógica. */
